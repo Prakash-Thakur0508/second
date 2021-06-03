@@ -1,6 +1,7 @@
 public class first{
 	public static void main(String args[]){
-		System.out.println("fIRST");
+		System.out.println("first modified");
 	}
 }
+
 
